@@ -5,16 +5,16 @@
 */
 
 body {
-  background-color: lightskyblue;
+  background-color: darkseagreen;
 }
 
 h1 {
-  background-color: rgb(252,255,168);
-  color: hsl(279, 83%, 76%);
+  background-color: rgb(230, 230, 250);
+  color: hsl(275, 100%, 25%);
   padding: 40px;
   text-align: center;
 }
 
 p {
-  background-color: #ffa8ec;
+  background-color: #008B8B	;
 }
