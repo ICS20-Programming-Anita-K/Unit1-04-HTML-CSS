@@ -1,0 +1,20 @@
+/* Created by: Anita Kay
+* Created on: Feb 2022
+* This CSS file defines the style for index.html
+* ICS20-Unit1-04-HTML-CSS
+*/
+
+body {
+  background-color: lightskyblue;
+}
+
+h1 {
+  background-color: rgb(252,255,168);
+  color: hsl(279, 83%, 76%);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: #ffa8ec;
+}
